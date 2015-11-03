@@ -26,6 +26,6 @@ You need to install the following libs:
 * pytz==2014.10
 * pyzmq==14.4.1
 * scipy==0.14.1
-*six==1.9.0
-*tornado==4.0.2
-*wsgiref==0.1.2
+* six==1.9.0
+* tornado==4.0.2
+* wsgiref==0.1.2
